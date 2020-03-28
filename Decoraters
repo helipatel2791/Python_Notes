@@ -1,0 +1,2 @@
+**A decorator is just a function that takes another function as an argument, adds some kind of functionality, and then returns another function.**
+
