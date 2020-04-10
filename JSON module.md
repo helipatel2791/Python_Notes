@@ -2,7 +2,7 @@
 •	JSON is a lightweight format compared to XML
 •	JSON = Java Script Object Notation
 •	Python uses JSON module to handle read/write to JSON object
-Write Data to JSON
+##Write Data to JSON
     Import json
     book = {} ------ dictionary object
     book[‘heli’] = {‘name’: heli, ‘address’: ‘5 Humphrey Street, NY’, ‘phone’: 394358323}
@@ -11,7 +11,7 @@ Write Data to JSON
         f.write(s)   ---write JSON string to file
 •	You can now read this JSON data using any language that supports JSON such as Javascript, C++ etc.
 •	Hence, this is called data exchange format (i.e. exchanging data from python program to Javascript program)
-Read JSON file
+##Read JSON file
     Import json
     f = open(“filepath”, “r”)
     s = f.read()   --- s is JSON String
