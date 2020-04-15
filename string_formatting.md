@@ -39,3 +39,12 @@
        Cucumber   |        5
  ```
  * Here, 0 indicates Cucumber, 1 indicates 5 and so on..11 and 9 are widths assigned
+ ### f-strings:
+ * Introduced in Python 3.6
+ ```
+ I/P: name = 'Heli'
+      print(f"Hello! My name is {name}")
+ O/P: Hello! My name is Heli
+ ```
+ * We can use objects directly in the string using f-string
+ ```
