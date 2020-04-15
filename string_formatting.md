@@ -1,4 +1,4 @@
-formatting with placeholders:
+##formatting with placeholders:
     
    I/P --> print("I'm going to inject %s text here and %s text here" %('some','more'))
    O/P --> I'm going to inject some text here and more text here
