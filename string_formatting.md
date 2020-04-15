@@ -47,4 +47,3 @@
  O/P: Hello! My name is Heli
  ```
  * We can use objects directly in the string using f-string
- ```
